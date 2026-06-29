@@ -22,7 +22,7 @@ const offerConfig = {
   'PolicyBazar': { installAmt: 0.1, trialAmt: 6, installBalance: false, trialBalance: true, installComment: 'PolicyBazar install', trialComment: 'PolicyBazar Register' },
   'StoryMax': { installAmt: 0.1, trialAmt: 15, installBalance: false, trialBalance: true, installComment: 'StoryMax Install', trialComment: 'StoryMax Trial Buy' },
   'Digi Credit': { installAmt: 12, trialAmt: 0, installBalance: true, trialBalance: false, installComment: 'DigiCredit Register', trialComment: 'JIGRI Deposit' },
-  'HDFC SKY': { installAmt: 8, trialAmt: 43, installBalance: true, trialBalance: true, installComment: 'Hdfc Registration', trialComment: 'FriendShip Deposit' },
+  'HDFC SKY': { installAmt: 6, trialAmt: 43, installBalance: true, trialBalance: true, installComment: 'Hdfc Registration', trialComment: 'FriendShip Deposit' },
   'Incred Gold': { installAmt: 0.1, trialAmt: 22, installBalance: false, trialBalance: true, installComment: 'Incred Install', trialComment: 'Incred Gold' },
   'StoryTv Fire': { installAmt: 0.1, trialAmt: 22, installBalance: false, trialBalance: true, installComment: 'StoryTv Install', trialComment: 'StoryTv Trail' }
 };
