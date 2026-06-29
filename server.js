@@ -642,7 +642,7 @@ app.get('/postback', async (req, res) => {
     let addBalance = false;
     const eventName = event?.trim().toLowerCase();
 
-    if (['web', 'initial', 'install', 'e1', 'default'].includes(eventName)) {
+    if (['web', 'initial', 'install', 'e1', 'default' 'Otp_verify'].includes(eventName)) {
       amount = config.installAmt || 0;
       comment = config.installComment;
       addBalance = config.installBalance;
