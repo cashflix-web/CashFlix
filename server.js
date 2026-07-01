@@ -22,8 +22,8 @@ const offerConfig = {
   'PolicyBazar': { installAmt: 0.1, trialAmt: 5, installBalance: false, trialBalance: true, installComment: 'PolicyBazar install', trialComment: 'PolicyBazar Register' },
   'StoryMax': { installAmt: 0.1, trialAmt: 15, installBalance: false, trialBalance: true, installComment: 'StoryMax Install', trialComment: 'StoryMax Trial Buy' },
   'Digi Credit': { installAmt: 12, trialAmt: 0, installBalance: true, trialBalance: false, installComment: 'DigiCredit Register', trialComment: 'JIGRI Deposit' },
-  'HDFC SKY': { installAmt: 6, trialAmt: 43, installBalance: true, trialBalance: true, installComment: 'Hdfc Registration', trialComment: 'FriendShip Deposit' },
-  'Muthoot': { installAmt: 0.1, trialAmt: 15, installBalance: false, trialBalance: true, installComment: 'Muthoot Install', trialComment: 'Muthoot Registration' },
+  'Muthoot': { installAmt: 0.1, trialAmt: 15, installBalance: true, trialBalance: true, installComment: 'Muthoot Install', trialComment: 'Muthoot Registration' },
+  '': { installAmt: 0.1, trialAmt: 15, installBalance: false, trialBalance: true, installComment: 'Muthoot Install', trialComment: 'Muthoot Registration' },
   'StoryTv Fire': { installAmt: 0.1, trialAmt: 22, installBalance: false, trialBalance: true, installComment: 'StoryTv Install', trialComment: 'StoryTv Trail' }
 };
 
